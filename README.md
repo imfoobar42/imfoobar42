@@ -44,29 +44,35 @@ src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sdeakashsingh/ ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akash.m.singh@outlook.com) 
 
 ## 📊 GitHub Stats
+<table align="center">
+  <tr>
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=imfoobar42&theme=monokai&hide_border=false&include_all_commits=true&count_private=true" 
+        width="350" 
+        height="250" 
+        alt="GitHub Stats"
+      />
+    </td>
+    <td>
+      <img 
+        src="https://nirzak-streak-stats.vercel.app/?user=imfoobar42&theme=monokai&hide_border=false" 
+        width="350" 
+        height="250" 
+        alt="GitHub Streak"
+      />
+    </td>
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=imfoobar42&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact" 
+        width="350" 
+        height="250" 
+        alt="Top Languages"
+      />
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=imfoobar42&theme=monokai&hide_border=false&include_all_commits=true&count_private=true" 
-    width="350" 
-    height="250" 
-    style="margin-right: 10px;" 
-    alt="GitHub Stats"
-  />
-  <img 
-    src="https://nirzak-streak-stats.vercel.app/?user=imfoobar42&theme=monokai&hide_border=false" 
-    width="350" 
-    height="250" 
-    style="margin-right: 10px;" 
-    alt="GitHub Streak"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=imfoobar42&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact" 
-    width="350" 
-    height="250" 
-    alt="Top Languages"
-  />
-</div>
 
 
 # 💻 Tech Stack:
