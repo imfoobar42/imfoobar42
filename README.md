@@ -2,6 +2,7 @@
 </h2>
 
 ###
+<div>
 ![](https://github-readme-stats.vercel.app/api?username=imfoobar42&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
   <!-- Top Languages Card -->
