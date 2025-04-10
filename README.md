@@ -48,20 +48,22 @@ src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349
 <div align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=imfoobar42&theme=monokai&hide_border=false&include_all_commits=true&count_private=true" 
-    width="33%" 
-     height="250" 
+    width="350" 
+    height="250" 
+    style="margin-right: 10px;" 
     alt="GitHub Stats"
   />
   <img 
     src="https://nirzak-streak-stats.vercel.app/?user=imfoobar42&theme=monokai&hide_border=false" 
-    width="33%" 
-     height="250" 
+    width="350" 
+    height="250" 
+    style="margin-right: 10px;" 
     alt="GitHub Streak"
   />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=imfoobar42&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact" 
-    width="33%" 
-     height="250" 
+    width="350" 
+    height="250" 
     alt="Top Languages"
   />
 </div>
