@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! I’m Akash - I love building cool things and solving hard problems. <br>Currently a Researcher/Developer at XLAB - UB, working on AI, Full Stack, and some cool tech. <br>I’ve worked across different tech stacks in both academia and industry, and I’m always up for learning something new.
 
-🧠 Currently diving deep into LLMs and RAG 🧠
+🧠 Currently diving deep into LLMs and RAG and AI 🧠
 </h2>
 
 
