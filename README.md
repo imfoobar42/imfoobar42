@@ -25,6 +25,11 @@
     </td>
   </tr>
 </table>
+<br/>
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=imfoobar42&label=Profile%20Views&icon=3&pretty=false" />
+</div>
 
 <br/>
 
@@ -33,13 +38,12 @@
 <div align="center">
 
   <h3>👨‍💻 Languages</h3>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JS" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TS" />
-  <img src="https://img.shields.io/badge/csharp-original?style=for-the-badge&logo=csharp&logoColor=white&color=239120" alt="C#" />
 
   <br/><br/>
 
@@ -108,14 +112,8 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai" />
-</div>
+
 
 <hr/>
 
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=imfoobar42&icon=0&color=0" />
-  </a>
-</div>
+
