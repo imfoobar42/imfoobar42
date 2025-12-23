@@ -1,12 +1,9 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="65%" valign="center">
-      <h1>Hi there 👋, I’m Akash!</h1>
+      <h1>Akash Singh | Software Engineer | Systems • Backend • AI </h1>
       <p>
-        <b>Researcher & Developer at XLAB - UB</b>
-      </p>
-      <p>
-        I love building cool things and solving hard problems. I’ve worked across different tech stacks in both academia and industry, and I’m always up for learning something new.
+        Hi there 👋, I’m Akash! I love building cool things and solving real-world problems. I’ve worked across different tech stacks in both academia and industry, and I’m always up for learning something new.
       </p>
       <p>
         🧠 <b>Currently diving deep into:</b> LLMs, RAG, and AI Agents.
