@@ -28,8 +28,11 @@
 <br/>
 
 <div align="center">
+<a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=imfoobar42&label=Profile%20Views&icon=3&pretty=false" />
+</a>
 </div>
+
 
 <br/>
 
