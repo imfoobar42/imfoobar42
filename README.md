@@ -97,6 +97,10 @@
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=imfoobar42&theme=monokai&hide_border=false&include_all_commits=true&count_private=true" height="180" alt="stats graph" />
+  <img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/streak?username=imfoobar42"
+  height="400"
+/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imfoobar42&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180" alt="languages graph" />
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=imfoobar42&theme=monokai&hide_border=false" height="180" alt="streak graph" />
@@ -104,9 +108,20 @@
 
 <br/>
 
-<h2 align="center">🏆 Achievements</h2>
+<!-- <h2 align="center">🏆 Achievements</h2>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=imfoobar42&theme=monokai&no-frame=false&no-bg=true&margin-w=4" />
+</div> -->
+<h2 align="center">🏆 Achievements</h2>
+
+<div align="center">
+  <ul align="left" style="display:inline-block;">
+    <li>9 years of continuous GitHub activity</li>
+    <li>1,199 commits across 64 repositories</li>
+    <li>Contributions to 18 repositories</li>
+    <li>Active in PRs and issue discussions</li>
+    <li>Preference for MIT-licensed open-source projects</li>
+  </ul>
 </div>
 
 <br/>
