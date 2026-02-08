@@ -91,17 +91,6 @@
 
 <br/>
 
-<!-- <h2 align="center">📊 GitHub Stats</h2>
-<div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=imfoobar42&theme=monokai&hide_border=false&include_all_commits=true&count_private=true" height="180" alt="stats graph" /> -->
-  <!-- <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/streak?username=imfoobar42"
-  height="180"
-/> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imfoobar42&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180" alt="languages graph" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=imfoobar42&theme=monokai&hide_border=false" height="180" alt="streak graph" />
-</div> -->
 
 
 
